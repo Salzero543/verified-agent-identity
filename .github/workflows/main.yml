@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'Salzero543'
         required: true
-        default: 'finder'
+        default: 'Salzero543'
       agent_description:
         description: 'Salzero543'
         required: true
